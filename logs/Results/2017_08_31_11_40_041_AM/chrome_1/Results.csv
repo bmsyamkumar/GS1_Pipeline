@@ -1,0 +1,2 @@
+TestcaseName,ItrationCount,JiraTCID,Status,DeviceName,Method Description,JiraTestCaseId,Owner,TestCaseType
+com.web.poc.script.GS1_Login.GS1_Login,1,,PASS,windows-chrome,GS1,null,null,null
